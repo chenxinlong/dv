@@ -15,9 +15,10 @@ require :
 
 # install 
 
-1. clone repo
-2. cd 至 repo 根目录，`make` dv binary
-3. 导入 repo 根目录下 `dv.alfredworkflow` 至 alfred
+1. clone repo 
+2. cd 至 repo 根目录，修改 configs/config.json
+3. cd 至 repo 根目录，`make` dv binary
+4. 导入 repo 根目录下 `dv.alfredworkflow` 至 alfred
 
 # todo 
 

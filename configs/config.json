@@ -1,10 +1,5 @@
 {
-  "proxy":{},
-  "deepl": {
-    "target_lang": "zh-cn",
-    "auth_key": ""
-  },
   "weather": {
-    "key": "9fd5078529574b629bb8f2dbdd61dbd0"
+    "key": "xxxxxx"
   }
 }
