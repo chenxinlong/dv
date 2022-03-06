@@ -11,7 +11,7 @@ require :
 * go1.16+
 * alfred 4.5+
 
-![](static/images/dv.gif)
+![](static/images/dvv.gif)
 
 # install 
 
